@@ -16,6 +16,4 @@
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
-
 * The test seems to work best to identify healthy loans, while it does not do as good of a job predicting loans that are at high risk of going into default. I would still recommend using this test despite it not being perfect, as the accuracy is still very high for both results. 
